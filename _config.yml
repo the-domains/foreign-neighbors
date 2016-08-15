@@ -1,0 +1,14 @@
+layout_spectrum: 0.8131159273907542
+typography_spectrum: 0.536502324976027
+color:
+  brandStrength: 0.3010890951845795
+  lightness: 0.7358635477721691
+  saturation: 0.5503267317544669
+  rhythmicContrast: 0.5349019225686789
+  brandColors:
+    - '#000100'
+    - '#FFFFFE'
+    - '#DDDDDC'
+    - '#888887'
+    - '#656665'
+name: Foreign Neighbors
